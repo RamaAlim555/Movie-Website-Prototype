@@ -1,0 +1,20 @@
+.srcBTN
+{
+    padding: 5px 12px;
+    border-radius: 10px;
+    background-color: seagreen;
+    border-style: solid;
+    border-color: green;
+    color: white;
+}
+
+.srcBTN:hover
+{
+    padding: 5px 12px;
+    border-radius: 10px;
+    background-color: springgreen;
+    border-style: solid;
+    border-color: yellowgreen;
+    color: rgb(0, 0, 0);
+    transition-delay: 0.15s;
+}
